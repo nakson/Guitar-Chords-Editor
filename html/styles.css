@@ -1,0 +1,47 @@
+body {color: orange; background-color: gray;}
+table {color: orange;
+  background-color: #000000;
+}
+caption {font-size: 23pt;
+  font-weight: bold;
+  font-family: Georgia "Courier New";
+}
+
+td,th {padding: 20px;}
+
+input[type=text] {
+  padding:5px;
+  border:2px solid #ccc;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+input[type=text]:focus {
+  border-color:#333;
+}
+
+input[type=button] {
+  padding:5px 15px;
+  background:#ccc;
+  border:0 none;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+canvas { box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);  }
+label {
+  color:gray;
+  -webkit-border-radius: 5px;
+  position:relative;
+  border-radius: 5px;
+}
+
+#boxContainer{
+  /*position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)*/
+  text-align:center;
+}
