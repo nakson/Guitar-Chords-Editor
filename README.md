@@ -1,4 +1,4 @@
-# Guitar-Chords-Editor
+﻿# Guitar-Chords-Editor
 Javascript Single Page App
 
 ## Intro
@@ -19,3 +19,6 @@ $ node app.js
 4. Drag & drop the words and chords on the canvas, and click "Preview" button to see the changes
 5. Enter a name and click "Save As" button to save the new file
 
+## Demonstration
+
+![screenshot](https://img2020.cnblogs.com/blog/2292583/202102/2292583-20210220201030816-1483591957.gif)

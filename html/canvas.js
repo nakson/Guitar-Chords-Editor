@@ -4,8 +4,7 @@ var wordsDrawn = [];
 var file = [];
 
 function getWordAtLocation(aCanvasX, aCanvasY){
-	// This function returns the word object of the word I
-	// am clicking
+	// This function returns the word object of the word I am clicking
 
 	let context = canvas.getContext('2d');
 
