@@ -21,4 +21,4 @@ $ node app.js
 
 ## Demonstration
 
-![screenshot](https://img2020.cnblogs.com/blog/2292583/202102/2292583-20210220201030816-1483591957.gif)
+![screenshot](./html/screenshot.gif)
