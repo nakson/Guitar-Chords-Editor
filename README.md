@@ -21,6 +21,4 @@ $ node app.js
 
 ## Demonstration
 
-<video src="D:\pj\github\Guitar-Chords-Editor\html\screenshot.mp4"></video>
-
 ![screenshot](./html/screenshot.gif)
