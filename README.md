@@ -17,7 +17,7 @@ $ node app.js
 2. Open a web browser, go to the url address: http://localhost:3000/index.html
 3. Enter a song name, then click "Submit Request" button (or press enter)
 4. Drag & drop the words and chords on the canvas, and click "Preview" button to see the changes
-5. Enter a name and click "Save As" button to save the new file
+5. Enter a name and click "Save File" button to save the new file
 
 ## Demonstration
 
